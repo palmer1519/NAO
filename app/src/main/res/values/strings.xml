@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NAO</string>
+
+    <string name="btn_tex_siguiente">Siguiente</string>
+    <string name="hint_codigo">Código:</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_N_C">Nombre/Código</string>
+    <string name="Inventario"> Es el control de la existencia de diversos articulos con el que cuenta una dependencia, permitira llevar una organización de dichos productos. </string>
+    <string name="Venta"> Permitira registrar las ventas que el proveedor realize a dichos clientes. </string>
+    <string name="Compra"> El proveedor realiza un entrega de dichos productos a una sucursal, permitira registrar dicha compra. </string>
+    <string name="NAO"> Es un punto de venta e inventario para proveedores, con la intencion de mantener en orden los productos y venta de el vendedor en ruta. </string>
+
+
+</resources>
